@@ -6,7 +6,7 @@ Version
 ollama -v
 ```
 
-Libraries
+## Libraries
 
 - [ollama-python](https://github.com/ollama/ollama-python)
 - [ollama-js](https://github.com/ollama/ollama-js)
